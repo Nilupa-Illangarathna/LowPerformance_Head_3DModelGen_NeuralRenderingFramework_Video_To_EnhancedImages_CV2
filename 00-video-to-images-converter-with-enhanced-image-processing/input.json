@@ -1,0 +1,7 @@
+{
+    "video_processing": {
+        "input_video_path": "input/video02.mp4",
+        "output_dir_video": "output/frames",
+        "batch_size": 20
+    }
+}
